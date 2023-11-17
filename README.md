@@ -1,5 +1,5 @@
 # Learning Cloud Engineering
-Learning the basics of cloud engineering. Mainly focusing on Docker, GitHub Cl, Ansible, Terraform and using Python and maybe Java to gather information. I am currently using GitHub as a way to keep track of my learning of cloud engineering 
+Learning the basics of cloud engineering. Mainly focusing on Docker, GitHub Cl, Ansible, Terraform and using Python and maybe Scala to gather information. I am currently using GitHub as a way to keep track of my learning of cloud engineering 
 
 # Main Focus of Learning
   - Foundations of IT - Professor Messer
